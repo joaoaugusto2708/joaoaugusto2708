@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/afonso412/afonso412/blob/output/github-contribution-grid-snake.svg)
 <h1>Hello, Welcome to my Github</h1>
 <p>My name is João Augusto</p>
 <div>
