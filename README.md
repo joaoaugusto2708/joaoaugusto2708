@@ -1,6 +1,6 @@
 <h1>Hello, Welcome to my Github</h1>
 <p>My name is João Augusto</p>
-<p>Estou no primeiro perído de Analise e Desenvolvimento.</p>
+<p>Estou no primeiro perído de Analise e Desenvolvimento de Sistemas.</p>
 <p>No momento estou estudando python.<img width="2%" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"</p>
 <p>Estou procurando um Estágio na área de desenvolvedor.</p>
 <div>
