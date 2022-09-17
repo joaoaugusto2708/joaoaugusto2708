@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/afonso412/afonso412/blob/output/github-contribution-grid-snake.svg)
 <h1>Hello, Welcome to my Github</h1>
 <p>My name is João Augusto</p>
 <div>
@@ -6,3 +7,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afonso412&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <p>I'm currently studying python.<br>I'm looking for an intership or a hiring in the IT area</p>
+
