@@ -1,3 +1,5 @@
+<h1>Hello, Welcome to my Github</h1>
+<p>My name is João Augusto</p>
 <div>
 <a href="https://github.com/afonso412">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonso412&layout=compact&langs_count=7&theme=dracula"/>
