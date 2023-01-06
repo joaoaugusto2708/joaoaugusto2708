@@ -1,7 +1,7 @@
 <h1>Bem vindo!!</h1>
 <p>Meu nome é João Augusto</p>
 <p>Estou no segundo período de Analise e Desenvolvimento de Sistemas.</p>
-<p>No momento estou estudando python.<img width="2%" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"</p>
+<p>No momento estou estudando JS.</p>
 <p>Estou procurando um Estágio na área de desenvolvedor.</p>
 <div>
 <a href="https://github.com/joaoaugusto2708">
