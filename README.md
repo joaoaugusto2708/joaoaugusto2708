@@ -1,5 +1,5 @@
 <div>
-  <h1>Welcome my Git!!</h1>
+  <h1>Welcome to my GitGub!!</h1>
   <lr>
   <p>-Hi, I'm João Augusto, I'm in the second period of Systems Analysis and Development, I'm currently studying JavaScript and I'm looking for an internship as a FullStack Developer</p>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8vxf8UzfTvle9Ti4WzlB8NXwve5BKe5LsQ&usqp=CAU">
