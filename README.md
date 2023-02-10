@@ -2,6 +2,10 @@
   <h1>Welcome my Git!!</h1>
   <lr>
   <p>-Hi, I'm João Augusto, I'm in the second period of Systems Analysis and Development, I'm currently studying JavaScript and I'm looking for an internship as a FullStack Developer</p>
+    <div>
+      <a href="https://instagram.com/joaoaugusto_jf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/joaoaarodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  </div>
   <h2>Technologies learned so far.</h2>
     <div style="display: inline_block">
       <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
