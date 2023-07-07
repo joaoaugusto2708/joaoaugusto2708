@@ -1,7 +1,7 @@
 <div>
   <h1>Welcome to my GitHub!!</h1>
   <lr>
-  <p>-Hi, I'm João Augusto, I'm in the second period of Systems Analysis and Development, I'm currently studying .NET and I'm looking for an internship as a FullStack Developer</p>
+  <p>-Hi, I'm João Augusto, I'm in the third period of Systems Analysis and Development, I'm currently studying .NET and I'm doing an internship in the development area</p>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8vxf8UzfTvle9Ti4WzlB8NXwve5BKe5LsQ&usqp=CAU">
     <h2>My social networks</h2>
     <div>
